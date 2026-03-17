@@ -71,7 +71,7 @@ t.append("9")
 print(t)
 ```
 
-(Link til koden)[https://glowscript.org/#/user/mps/folder/maanen/program/kodestumper-4]
+[Link til koden.](https://glowscript.org/#/user/mps/folder/maanen/program/kodestumper-4)
 
 
 ### opsummering fysik

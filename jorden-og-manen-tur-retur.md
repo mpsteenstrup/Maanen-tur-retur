@@ -33,11 +33,8 @@ Flyveplanen kan ses her.
 
 Det er jeres opgave at eftergøre denne mission. I skal bruge hvad I har lært tidligere og lave om i koden.
 
-![[Jorden og så til Månen.](https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2
-)](billeder/jorden-maanen-2.png)
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2
-](https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2
-)
+![[Jorden og så til Månen.](https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2)](billeder/jorden-maanen-2.png)
+LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2](https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2)
 
 ### Overvejelser
 

@@ -5,7 +5,7 @@ Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thin
 
 
 * [Former](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/former.md)
-* [bevaegelse](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/bevaegelse.md)
+* [bevaegelse](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/bevaegslse.md)
 * [Fysisk system](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/fysisk-system.md)
 * [Jorden og satellit](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/jorden-og-satellit.md)
 * [Jorden - månen, tur - retur](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/jorden-og-manen-tur-retur.md)
@@ -16,7 +16,7 @@ Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thin
 
 At træne elevernes forståelse for kinetisk, potentiel og mekanisk energi. Mere specifikt at kunne forklare graferne for de tre energiformer ved bevægelse i et ikke homogent tyngdefelt. Eleverne fik derudover en anderledes introduktion til Newtons tyngdelov, hvor de selv prøvede den af.
 
-* CT-faglige mål *var at eleverne skulle styrkes i
+*CT-faglige mål* var at eleverne skulle styrkes i
 * Trinvis tilgang til løsning af fysikproblemer.
 * Læse kode.
 * Rette i kode.
