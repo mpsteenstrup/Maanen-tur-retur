@@ -3,13 +3,13 @@ Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thin
 
 ### Indholdsfortegnelse
 
-
-* [Former](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/former.md)
-* [bevaegelse](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/bevaegslse.md)
-* [Fysisk system](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/fysisk-system.md)
-* [Jorden og satellit](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/jorden-og-satellit.md)
-* [Jorden - månen, tur - retur](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/jorden-og-manen-tur-retur.md)
-* [Kodestumper og opsamling](https://github.com/mpsteenstrup/Maanen-tur-retur/blob/main/kodestumper-og-opsamling.md)
+* [Indledning](https://mpsteenstrup.github.io/Maanen-tur-retur/README.html)
+* [Former](https://mpsteenstrup.github.io/Maanen-tur-retur/former.html)
+* [bevaegelse](https://mpsteenstrup.github.io/Maanen-tur-retur/bevaegslse.html)
+* [Fysisk system](https://mpsteenstrup.github.io/Maanen-tur-retur/fysisk-system.html)
+* [Jorden og satellit](https://mpsteenstrup.github.io/Maanen-tur-retur/jorden-og-satellit.html)
+* [Jorden - månen, tur - retur](https://mpsteenstrup.github.io/Maanen-tur-retur/jorden-og-manen-tur-retur.html)
+* [Kodestumper og opsamling](https://mpsteenstrup.github.io/Maanen-tur-retur/kodestumper-og-opsamling.html)
 
 ### Mål med aktiviteten
 *Fysikfaglige mål*
