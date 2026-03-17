@@ -3,7 +3,7 @@ Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thin
 
 ### Indholdsfortegnelse
 
-* [Indledning](https://mpsteenstrup.github.io/Maanen-tur-retur/README.html)
+* [Indledning](https://mpsteenstrup.github.io/Maanen-tur-retur/)
 * [Former](https://mpsteenstrup.github.io/Maanen-tur-retur/former.html)
 * [bevaegelse](https://mpsteenstrup.github.io/Maanen-tur-retur/bevaegslse.html)
 * [Fysisk system](https://mpsteenstrup.github.io/Maanen-tur-retur/fysisk-system.html)
