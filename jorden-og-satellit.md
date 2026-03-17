@@ -2,19 +2,25 @@
 
 For at komme i gang vil vi se på Jorden og få en satellit til at foretage cirkelbevægelser omkring den.
 
-VPython har elementer som sphere og arrows, som bliver skrevet som vektorer. Det er meget brugbart for os, da bevægelse og krafter også kan beskrives med vektorer.
+VPython har elementer som sphere og arrows, som bliver skrevet som vektorer. Det er meget brugbart for os, da bevægelse og kræfter også kan beskrives med vektorer.
 Kraften, kan skrives som 
+
 $$
 \vec{F} = (F_x,F_y,F_z)
 $$
+
 Vi kan bruge Newtons 2 lov til at finde accelerationen, hvis vi kender massen,m
+
 $$
 \vec{a} = \frac{\vec{F}}{m}.
 $$
+
 Den eneste kraft er tyngdekraften og den kan skrives som,
+
 $$
 \vec{F} = -G\frac{mM}{r^3}\vec{r},
-$$ha
+$$
+
 hvor, *G* er gravitationskonstanten, *m* satellittens masse, *M* jordens masse og *r* afstanden mellem jordens centrum og satellitten.
 
 ### Affyring fra jorden
@@ -33,6 +39,7 @@ giver størrelsen, eller længden af vektoren.
 Prøv at kør programmet.
 
 ![[Kredsløb om Jorden, lav bane.](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter)](billeder/jorden-og-satellit-1.png)
+
 LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter)
 
 ### Øvelse
@@ -56,6 +63,7 @@ if (t>(60*60*5) and a==0):
 inde i while loopet. Koden aktiveres når tiden er større end ```60*60*5```sekunder og ```a==0``` gør at det kun sker én gang. Kraften bliver opdateret med et skub, push, i sattelittens bevægelsesretning, norm(sat.v).
 
 ![[Op i rigtig bane, men hvordan?](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2)](billeder/jorden-og-satellit-2.png)
+
 LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2)
 
 
