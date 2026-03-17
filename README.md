@@ -1,6 +1,6 @@
 # Månen tur retur
 Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thinking i Matematik og Naturfag i skoleåret 2018-19.
-
+![The moon](billeder/moon.png)
 ### Indledning
 
 Månen er den største af de ca. 14900 satellitter der kredser om Jorden. Månens og den andre satelliters bevægelse er alle styret af tungdekraften som skyldes Jordens masse. 
