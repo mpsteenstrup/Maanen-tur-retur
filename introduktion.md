@@ -1,4 +1,4 @@
-## INTRODUKTION
+# INTRODUKTION
 
 Fysikkens love indeholder ofte krafter og acceleration og kan derfor beskrives som 2. ordens differentialligninger. Disse er ofte svære eller umulige at løse analytisk, d.v.s. finde ligningen, men den kan ofte klares numerisk. I denne introduktion prøver vi at arbejde os frem til at kunne gøre det.
 

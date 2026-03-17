@@ -1,6 +1,12 @@
 # Månen tur retur
-
 Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thinking i Matematik og Naturfag i skoleåret 2018-19.
+
+### Indholdsfortegnelse
+
+
+
+
+
 
 ### Mål med aktiviteten
 *Fysikfaglige mål*
@@ -21,7 +27,7 @@ Nogle få af eleverne havde programmeringerfaring fra folkeskolen, men de flest 
 Projektet forløb over 3 moduler af 90 minutters varighed.
 
 ### Planche lavet i forbindelse med DASG projektet.
-![CTDASGMPSteenstrup.pdf](/components/viewerjs/index.html#../../api/files/5e31f99c67a8cdba200ad128/ctdasgmpsteenstrup.pdf "CTDASGMPSteenstrup.pdf")
+[CTDASGMPSteenstrup.pdf](billeder/CTDASGMPSteenstrup.pdf)
 
 # Simulering af bevægelse i tyngdefelt 
 
