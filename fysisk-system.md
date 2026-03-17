@@ -14,9 +14,8 @@ Hvilket svarer til at en bold 10 meter over jorden med en hastighed på v=-10m/s
 LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1)
 
 Jeg gennemgår koden i denne video.
-
-![video](https://youtu.be/EiCOQMKtnUE)
-
+![video (https://youtu.be/EiCOQMKtnUE)](billeder/video.png)
+[Link til video.]((https://youtu.be/EiCOQMKtnUE))
 
 ### Prøv selv
 
