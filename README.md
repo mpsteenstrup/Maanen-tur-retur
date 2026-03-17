@@ -1,6 +1,22 @@
 # Månen tur retur
 Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thinking i Matematik og Naturfag i skoleåret 2018-19.
 
+### Indledning
+
+Månen er den største af de ca. 14900 satellitter der kredser om Jorden. Månens og den andre satelliters bevægelse er alle styret af tungdekraften som skyldes Jordens masse. 
+
+I dette forløb skal I bruge Python til at simulere satellitters bevægelse og undersøg hvordan satellitter kan skifte bane. I skal til sidst simulere en rejse rundt om Månen og tilbage igen. Det meste af Python koden er skrevet for jer, så I skal bruge de til at træne jeres forståelse af Potentiel og Kinetisk energi i forbindelse med orbitaler, planeter, satellitter osv.
+
+Når I er færdige skulle I gerne kunne svare på følgende.
+
+* Hvordan ser kurverne for den kinetiske og potentielle energi ud for en satellit.
+* Hvordan afhænger den potentielle energi af afstanden til Jorden.
+* Hvordan kommer man fra en kraft til en acceleration.
+* Hvordan kommer man fra en acceleration til en ændring i hastigheden.
+* Hvordan kommer man fra en hastighed til en ændring i positionen.
+
+
+
 ### Indholdsfortegnelse
 
 * [Indledning](https://mpsteenstrup.github.io/Maanen-tur-retur/)
@@ -11,6 +27,7 @@ Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thin
 * [Jorden - månen, tur - retur](https://mpsteenstrup.github.io/Maanen-tur-retur/jorden-og-manen-tur-retur.html)
 * [Kodestumper og opsamling](https://mpsteenstrup.github.io/Maanen-tur-retur/kodestumper-og-opsamling.html)
 
+## Til lærerene
 ### Mål med aktiviteten
 *Fysikfaglige mål*
 
@@ -32,9 +49,10 @@ Projektet forløb over 3 moduler af 90 minutters varighed.
 ### Planche lavet i forbindelse med DASG projektet.
 [CTDASGMPSteenstrup.pdf](billeder/CTDASGMPSteenstrup.pdf)
 
-# Simulering af bevægelse i tyngdefelt 
+## kreditering
+Månen tur retur
 
-[https://trinket.io/mpsteenstrup_9752/courses/simulering-af-bevaegelse-i-tyngdefelt](https://trinket.io/mpsteenstrup_9752/courses/simulering-af-bevaegelse-i-tyngdefelt)
+[https://mpsteenstrup.github.io/Maanen-tur-retur/](https://mpsteenstrup.github.io/Maanen-tur-retur/)
 
 Mads Peter H. Steenstrup, Rysensteen Gymnasium, 2021, 
 
