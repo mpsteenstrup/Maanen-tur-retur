@@ -1,4 +1,4 @@
-# Månen tur retur
+
 Projektet er udviklet som en del af DASGs udviklingsprojektet Computational Thinking i Matematik og Naturfag i skoleåret 2018-19.
 ![The moon](billeder/moon.png)
 ### Indledning

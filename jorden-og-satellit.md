@@ -50,7 +50,7 @@ Prøv at kør programmet.
 
 ![[Kredsløb om Jorden, lav bane.](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter)](billeder/jorden-og-satellit-1.png)
 
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter)
+ [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter)
 
 ### Øvelse
 
@@ -74,7 +74,7 @@ inde i while loopet. Koden aktiveres når tiden er større end ```60*60*5```seku
 
 ![[Op i rigtig bane, men hvordan?](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2)](billeder/jorden-og-satellit-2.png)
 
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2)
+ [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2](https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2)
 
 
 
@@ -90,7 +90,7 @@ LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/satellitter-2](ht
 I simulationen nedenfor starten vores satellit i højden, d, med en hastighed, v, vinkelret på Jorden.
 
 ![[Cirkulært orbit. ](https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3)](billeder/jorden-og-satellit-3.png)
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3](https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3)
+[https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3](https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3)
 
 
 

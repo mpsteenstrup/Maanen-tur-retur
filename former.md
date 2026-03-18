@@ -15,7 +15,7 @@ Pythons Glowscript modul er lavet til 3D simulering. Det er relativt let at sæt
 nedenunder er vist forskellige former.
 
 ![[Former](https://glowscript.org/#/user/mps/folder/maanen/program/former)](billeder/former.png)
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/former](https://glowscript.org/#/user/mps/folder/maanen/program/former)
+ [https://glowscript.org/#/user/mps/folder/maanen/program/former](https://glowscript.org/#/user/mps/folder/maanen/program/former)
 
 * For at ændre i koden skal man trykke på ```View this program```.
 * man kan fjerne linjer med #, det hedder at udkommentere.

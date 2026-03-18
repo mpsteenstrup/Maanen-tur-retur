@@ -25,7 +25,7 @@ while i<20:
 prøv at kør programmet og se hvad det gør.
 
 ![[Bevægelse](https://glowscript.org/#/user/mps/folder/maanen/program/move)](billeder/move.png)
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/move](https://glowscript.org/#/user/mps/folder/maanen/program/move)
+[https://glowscript.org/#/user/mps/folder/maanen/program/move](https://glowscript.org/#/user/mps/folder/maanen/program/move)
 
 * Beskriv hvad der sker med pilen.
 * Lav om på rate.

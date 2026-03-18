@@ -21,7 +21,7 @@ Vi starter med det lodrette kast uden luftmodstand. Fysikken er kendt som bevæg
 
 Hvilket svarer til at en bold 10 meter over jorden med en hastighed på v=-10m/s (nedad). Kør simuleringen
 ![[Bold hopper 1](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1)](billeder/fysisk-system-1.png)
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1)
+ [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1)
 
 Jeg gennemgår koden i denne video.
 ![video (https://youtu.be/EiCOQMKtnUE)](billeder/video.png)
@@ -62,7 +62,7 @@ Hvis bolden er på Månen er den udsat for en mindre tyngdekraft. Det betyder at
 nedenfor er en ekstra bold sat ind som hopper på Månen.
 
 ![[to bolde, forskellig tyngdekraft](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2)](billeder/fysisk-system-2.png)
-LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2)
+ [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2)
 
 Graferne viser den potentielle energi for de to bolde ved fald fra samme højde.
 * Beskriv de to grafer og overvej hvordan graferne for den kinetiske energi vil se ud.
