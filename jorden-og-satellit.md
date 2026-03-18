@@ -125,5 +125,3 @@ Overvej hvor du har brugt de fire elementer af Computational Thinking
 * Algorithms
 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
