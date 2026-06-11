@@ -17,6 +17,7 @@ Nedenfor er en simulering med Jorden og Månen, ca. 400.000 km.
 jorden-maanen-1
 
 ![[Jorden - Månen tur retur ](https://glowscript.org/#/user/mps/folder/maanen/program/jord-maane-1)](billeder/jorden-maanen-1.png)
+
 LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/jord-maane-1](https://glowscript.org/#/user/mps/folder/maanen/program/jord-maane-1)
 
 ### Øvelser
@@ -44,6 +45,7 @@ Flyveplanen kan ses her.
 Det er jeres opgave at eftergøre denne mission. I skal bruge hvad I har lært tidligere og lave om i koden.
 
 ![[Jorden og så til Månen.](https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2)](billeder/jorden-maanen-2.png)
+
 LINK: [https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2](https://glowscript.org/#/user/mps/folder/maanen/program/jorden-maanen-2)
 
 ### Overvejelser

@@ -23,9 +23,7 @@ Hvilket svarer til at en bold 10 meter over jorden med en hastighed på v=-10m/s
 ![[Bold hopper 1](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1)](billeder/fysisk-system-1.png)
  [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-1)
 
-Jeg gennemgår koden i denne video.
-![video (https://youtu.be/EiCOQMKtnUE)](billeder/video.png)
-[Link til video.]((https://youtu.be/EiCOQMKtnUE))
+Jeg gennemgår koden i denne video: [Link til video.]((https://youtu.be/EiCOQMKtnUE))
 
 ### Prøv selv
 
@@ -62,6 +60,7 @@ Hvis bolden er på Månen er den udsat for en mindre tyngdekraft. Det betyder at
 nedenfor er en ekstra bold sat ind som hopper på Månen.
 
 ![[to bolde, forskellig tyngdekraft](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2)](billeder/fysisk-system-2.png)
+
  [https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2](https://glowscript.org/#/user/mps/folder/maanen/program/fysisk-system-2)
 
 Graferne viser den potentielle energi for de to bolde ved fald fra samme højde.

@@ -90,6 +90,7 @@ inde i while loopet. Koden aktiveres når tiden er større end ```60*60*5```seku
 I simulationen nedenfor starten vores satellit i højden, d, med en hastighed, v, vinkelret på Jorden.
 
 ![[Cirkulært orbit. ](https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3)](billeder/jorden-og-satellit-3.png)
+
 [https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3](https://glowscript.org/#/user/mps/folder/maanen/program/satellit-3)
 
 

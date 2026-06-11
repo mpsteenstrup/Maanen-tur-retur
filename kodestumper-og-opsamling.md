@@ -21,6 +21,7 @@ while i < 20:
   sphere(pos=vec(i-10,0,0))
   i = i+2
 ```
+
 [Link til koden.](https://glowscript.org/#/user/mps/folder/MyPrograms/program/kodestumper-1)
 
 * eksperimenter, prøv eks. at lave et gitter
@@ -40,6 +41,7 @@ while i < 20:
   if i>10:
     a=random()*10
 ```
+
 [Link til koden.](https://glowscript.org/#/user/mps/folder/maanen/program/kodestumper-2)
 
 
