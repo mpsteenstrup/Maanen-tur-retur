@@ -1,6 +1,6 @@
-# Månen tur retur
+# Månen tur-retur
 
-Undervisningsmateriale til 1.g hvor simulering kombineres med newtons mekanik.
+Undervisningsmateriale til 1.g hvor simulering kombineres med newtons mekanik. 
 
 Materialet kan tilgås som webside her: [Indledning](https://mpsteenstrup.github.io/Maanen-tur-retur/maanen-tur-retur.html)
 
